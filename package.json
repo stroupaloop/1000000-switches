@@ -1,0 +1,14 @@
+{
+  "name": "1000000-switches",
+  "version": "1.0.0",
+  "description": "A quick program to manually calculate the 1,000,000 switches brain teaser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Stroup",
+  "license": "ISC",
+  "dependencies": {
+    "single-line-log": "^1.1.2"
+  }
+}
